@@ -10,7 +10,7 @@ A classic snake game made using HTML, CSS, and JavaScript.
 
 - Use the arrow keys to control the snake's movement: up, down, left, and right.
 - The snake grows in length each time it eats the randomly placed food.
-- Avoid colliding with the snake's own body, as it will result in game over.
+- Avoid colliding with the snake's own body or with the boundaries, as it will result in game over.
 
 ## Try it Out
 
